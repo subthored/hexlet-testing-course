@@ -2,7 +2,7 @@
 
 namespace StringUtils;
 
-function capitalize($text)
+function capitalize(string $text): string
 {
     if ($text === '') {
         return '';
