@@ -1,4 +1,7 @@
 {
+    "name": "hexlet/code",
+    "description": "First_project",
+    "type": "project",
     "license": "LGPL-3.0-or-later",
     "require": {
         "webmozart/assert": "^1.11"
@@ -8,6 +11,12 @@
             "src/StringUtils.php"
         ]
     },
+    "authors": [
+        {
+            "name": "Eugeny Zhikharev",
+            "email": "janiqgames@gmail.com"
+        }
+    ],
     "scripts": {
         "test": [
             "@php StringUtils.php"
