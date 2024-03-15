@@ -1,0 +1,14 @@
+{
+    "name": "evgeny/testing",
+    "description": "learning to write autotests",
+    "license": "LGPL-3.0-or-later",
+    "type": "project",
+    "require": {
+        "webmozart/assert": "^1.11"
+    },
+    "autoload": {
+        "files": [
+            "src/StringUtils.php"
+        ]
+    }
+}
