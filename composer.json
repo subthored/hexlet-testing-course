@@ -19,7 +19,7 @@
     ],
     "scripts": {
         "test": [
-            "@php StringUtils.php"
+            "@php src/StringUtils.php"
         ]
     }
 }
